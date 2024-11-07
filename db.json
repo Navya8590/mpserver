@@ -1,0 +1,38 @@
+{
+  "uploadVideos": [
+    {
+      "id": "192a",
+      "caption": "video1",
+      "imgUrl": "https://th.bing.com/th/id/OIP.c3VjSn9aWHYI-JidQavqcgHaK-?rs=1&pid=ImgDetMain",
+      "youTubeLink": "https://www.youtube.com/embed/uC9qU3X1JgM"
+    }
+  ],
+  "categories": [
+    {
+      "id": "7fa7",
+      "categoryName": "trailer",
+      "allVideo": [
+        {
+          "id": "296f",
+          "caption": "demo",
+          "imgUrl": "https://th.bing.com/th/id/OIP.c3VjSn9aWHYI-JidQavqcgHaK-?rs=1&pid=ImgDetMain",
+          "youTubeLink": "https://www.youtube.com/embed/uC9qU3X1JgM"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "6f50",
+      "caption": "demo",
+      "youTubeLink": "https://www.youtube.com/embed/uC9qU3X1JgM",
+      "timeStamp": "11/4/2024, GMT+5:30"
+    },
+    {
+      "caption": "video1",
+      "youTubeLink": "https://www.youtube.com/embed/uC9qU3X1JgM",
+      "timeStamp": "11/7/2024, GMT+5:30",
+      "id": "ewsxMUa"
+    }
+  ]
+}
